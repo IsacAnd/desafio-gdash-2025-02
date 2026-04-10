@@ -1,7 +1,5 @@
 # 🌦️ Weather Insight System — Full Stack com IA, Mensageria e Microsserviços
 
-* **LINK DO VÍDEO DE APRESENTAÇÃO: https://youtu.be/3E3XmT_mhB4** 
-
 Sistema completo para coleta, processamento, armazenamento, visualização e geração de **insights inteligentes climáticos**, utilizando:
 
 * **Frontend:** React + Vite
